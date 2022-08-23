@@ -9,7 +9,7 @@ RESTRICT="mirror"
 LICENSE="LGPL-2.1"
 SLOT="1"
 KEYWORDS="~amd64 ~x86"
-IUSE="cxx debug exif fits fftw imagemagick graphicsmagick svg jpeg lcms matio openexr
+IUSE="doc cxx debug exif fits fftw imagemagick graphicsmagick svg jpeg lcms matio openexr
 	+orc png python static-libs tiff webp"
 
 RDEPEND="
